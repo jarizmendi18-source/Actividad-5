@@ -1,0 +1,5 @@
+Categorías:
+
+- PANTALON
+- PLAYERA
+- SUDADERA
